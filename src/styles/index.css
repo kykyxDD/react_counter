@@ -1,0 +1,10 @@
+#counter {
+	background-color: #027ad0;
+	color: #fff;
+	width: 333px;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	position: absolute;
+	left: 50%;
+	margin-left: -162px;
+}

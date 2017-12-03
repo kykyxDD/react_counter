@@ -1,0 +1,39 @@
+{
+"date" : "02 Декабря",
+
+"flies.count"	:	"6181 человек",
+"flies.cities"	:	"из 11 городов",
+"flies.flights"	:	"на 64 рейсах",
+"flies.countries"	:	"в 22 страны",
+
+"book.count"	:	"3697 человек",
+"book.cities"	:	"из 11 городов",
+"book.flights"	:	"на 67 рейсах",
+"book.hotels"	:	"в 474 отеля",
+"book.countries"	:	"в 24 страны",
+
+"rest.count"	:	"34999 человек",
+"rest.hotels"	:	"в 1358 отелях",
+"rest.countries"	:	"в 43 странах",
+
+"exc.count"	:	"832 человека",
+"exc.countries"	:	"в 3 страны",
+
+"tkt.count"	:	"163 человека",
+"tkt.flights"	:	"на 32 рейсах",
+"tkt.countries"	:	"в 12 стран",
+
+"flyToSochi.count"	:	"2925 человек",
+"flyToSochi.cities"	:	"из 5 городов",
+"flyToSochi.flights"	:	"на 10 рейсах",
+
+"bookToSochi.count"	:	"2169 человек",
+"bookToSochi.cities"	:	"из 10 городов",
+"bookToSochi.flights"	:	"на 14 рейсах",
+"bookToSochi.hotels"	:	"в 49 отелей",
+
+"request.date"	:	"02.12.2017",
+"request.time"	:	"22:53:45",
+"request.path"	:	"03.12.2017",
+"request.text"	:	"<br>Заявка из 2 человек"
+}
