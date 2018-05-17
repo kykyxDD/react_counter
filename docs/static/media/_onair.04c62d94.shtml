@@ -1,0 +1,61 @@
+
+
+<div class="b-index_stats" data-modules="indexStats">
+	<h2 data-indexStats="date">02 Декабря</h2>
+
+	<div class="content-values">
+        <div class="content-item item_1"><h3>Отдыхает сейчас</h3>
+<h4 data-indexStats="rest.count,b"><b>34999</b> человек</h4>
+<ul>
+<li class="hotel" data-indexStats="rest.hotels,b">в <b>1358</b> отелях</li>
+<li class="country" data-indexStats="rest.countries,b">в <b>43</b> странах</li>
+</ul>
+</div>
+        <div class="content-item item_2"><h3>Вылетает сегодня</h3>
+<h4 data-indexStats="flies.count,b"><b>6181</b> человек</h4>
+<ul>
+<li class="city" data-indexStats="flies.cities,b">из <b>11</b> городов</li>
+<li class="voyage" data-indexStats="flies.flights,b">на <b>64</b> рейсах</li>
+<li class="country" data-indexStats="flies.countries,b">в <b>22</b> страны</li>
+</ul>
+</div>
+        <div class="content-item item_3"><h3>Забронировано туров</h3>
+<h4 data-indexStats="book.count,b"><b>3695</b> человек</h4>
+<ul>
+<li class="city" data-indexStats="book.cities,b">из <b>11</b> городов</li>
+<li class="voyage" data-indexStats="book.flights,b">на <b>67</b> рейсах</li>
+<li class="hotel" data-indexStats="book.hotels,b">в <b>473</b> отеля</li>
+<li class="country" data-indexStats="book.countries,b">в <b>24</b> страны</li>
+</ul>
+</div>
+	<div class="content-item item_4"><h3>Забронировано экскурсий</h3>
+<h4 data-indexStats="exc.count,b"><b>832</b> человека</h4>
+<ul>
+<li class="country" data-indexStats="exc.countries,b">в <b>3</b> страны</li>
+</ul>
+</div>
+        <div class="content-item item_5"><h3>Забронировано билетов</h3>
+<h4 data-indexStats="tkt.count,b"><b>163</b> человека</h4>
+<ul>
+<li class="voyage" data-indexStats="tkt.flights,b">на <b>32</b> рейсах</li>
+<li class="country" data-indexStats="tkt.countries,b">в <b>12</b> стран</li>
+</ul>
+</div>
+	<div class="content-item item_6"><h3>Вылетает сегодня в Сочи</h3>
+<h4 data-indexStats="flyToSochi.count,b"><b>2925</b> человек</h4>
+<ul>
+<li class="city" data-indexStats="flyToSochi.cities,b">из <b>5</b> городов</li>
+<li class="voyage" data-indexStats="flyToSochi.flights,b">на <b>10</b> рейсах</li>
+</ul>
+</div>
+	<div class="content-item item_7"><h3>Забронировано в Сочи</h3>
+<h4 data-indexStats="bookToSochi.count,b"><b>2169</b> человек</h4>
+<ul>
+<li class="city" data-indexStats="bookToSochi.cities,b">из <b>10</b> городов</li>
+<li class="voyage" data-indexStats="bookToSochi.flights,b">на <b>14</b> рейсах</li>
+<li class="hotel" data-indexStats="bookToSochi.hotels,b">в <b>49</b> отелей</li>
+</ul>
+</div>
+        <a class="more" href="/ate2.shtml">Прямой эфир</a>
+	</div>
+</div>
